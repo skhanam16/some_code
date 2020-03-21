@@ -2,4 +2,4 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE+$NUMBERTWO))
 echo "$NUMBER"
-echo "this is compete"
+echo "Hi there this is for my Jenkins some changes this is compete"
